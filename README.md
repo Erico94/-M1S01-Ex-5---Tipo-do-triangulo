@@ -1,9 +1,9 @@
 [Estrutura de Decisão]
 Faça um programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo, primeiro passo será verificar se os lados formam um triângulo. para isso valide: 
  Se a soma de quaisquer dos dois lados é maior que o terceiro:
-Lado1 + Lado2 > Lado3 ou;
-Lado3 + Lado2 > Lado1 ou;
-Lado3 + Lado1 > Lado2 ou;
+Lado1 + Lado2 > Lado3 E;
+Lado3 + Lado2 > Lado1 E;
+Lado3 + Lado1 > Lado2 E;
 Caso nenhuma das opções seja verdadeira, seu programa deverá informar que as medidas não formam um triângulo e encerrar.
 
 Caso formem um triângulo, informe  qual o tipo dele: equilátero, isósceles ou escaleno. Dicas:
